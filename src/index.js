@@ -30,11 +30,16 @@ const initial = {
         "key": "64jnl",
         "text": "---after---",
         "type": "unstyled"
+    }, {
+        "depth": 0,
+        "key": "64jnx",
+        "text": "paste here >>> <<<",
+        "type": "unstyled"
     }],
     "entityMap": {
         0: {
             "data": {
-                "text": "This text comes form the entity data",
+                "text": "This text comes from the entity data",
             },
             "mutability": "IMMUTABLE",
             "type": "SNIPPET"
